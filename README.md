@@ -97,10 +97,10 @@ License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-You can reach me through the following channels:
++254768131856:
 
-Email: your-email@example.com
+Email: gatkoangjockd@mail.com.com
 
 LinkedIn: Your LinkedIn Profile
 
-GitHub: Your GitHub Profile
+GitHub: https://github.com/Jock20/Hackathon
