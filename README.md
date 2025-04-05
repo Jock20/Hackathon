@@ -46,7 +46,7 @@ Clone the repository to your local machine:
 
 bash
 Copy
-https://github.com/Jock20/Hackathon
+https://jock20.github.io/Hackathon/
 Navigate into the project directory:
 
 bash
@@ -63,7 +63,7 @@ Run the development server:
 bash
 Copy
 npm start
-https://github.com/Jock20/Hackathon in your browser to view the website locally.
+https://jock20.github.io/Hackathon/ in your browser to view the website locally.
 
 Deployment
 You can deploy the portfolio website using various platforms such as:
@@ -103,4 +103,4 @@ Email: gatkoangjockd@mail.com.com
 
 LinkedIn: Your LinkedIn Profile
 
-GitHub: https://github.com/Jock20/Hackathon
+GitHub: https://github.com/Jock20/Hackatho
