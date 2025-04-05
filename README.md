@@ -46,7 +46,7 @@ Clone the repository to your local machine:
 
 bash
 Copy
-git clone https://github.com/your-username/portfolio-website.git
+https://github.com/Jock20/Hackathon
 Navigate into the project directory:
 
 bash
@@ -63,7 +63,7 @@ Run the development server:
 bash
 Copy
 npm start
-Visit http://localhost:3000 in your browser to view the website locally.
+https://github.com/Jock20/Hackathon in your browser to view the website locally.
 
 Deployment
 You can deploy the portfolio website using various platforms such as:
