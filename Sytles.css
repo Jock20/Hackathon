@@ -1,0 +1,99 @@
+/* General styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #c7c3de;
+  }
+  
+  h1 {
+    color: rgb(26, 160, 95);
+  }
+  
+  p {
+    color: hsl(242, 84%, 45%);
+  }
+  
+  /* Navigation Bar */
+  nav {
+    background-color: hwb(188 83% 11% / 0.711);
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    display: grid; /* Enable grid layout */
+    place-items: center; /* Align both horizontally and vertically */
+    height: 100vh; /* Full viewport height */
+  }
+  
+  .container {
+    text-align: center; /* Centers the image inside the container */
+  }
+  
+  img {
+    width: 15.0%; /* Optional: Resize the image */
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: #191d8dd6;
+    text-decoration: none;
+    font-size: 18px;
+    transition: color 0.3s ease;
+  }
+  
+  nav ul li a:hover {
+    color: #336dd1;
+  }
+  
+  /* Sections */
+  section {
+    padding: 60px 20px;
+    margin: 20px 0;
+  }
+  
+  #home {
+    background-color: rgba(230, 243, 236, 0.877);
+  }
+  
+  #about {
+    background-color: hwb(129 94% 1%);
+  }
+  
+  #contact {
+    background-color: hwb(132 75% 20%);
+  }
+  
+  #education {
+    background-color: rgb(204, 213, 205);
+  }
+  
+  #projects {
+    background-color: #bdd0c1;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    nav ul li {
+      display: block;
+      margin-bottom: 10px;
+    }
+  
+    nav ul li:last-child {
+      margin-bottom: 0;
+    }
+  }
+  
